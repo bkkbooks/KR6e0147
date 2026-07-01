@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0147/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一乘決疑論
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1029.xml
+    old_id: X58n1029
+hash: sha256:684d34f9b20d41d54ca933149c60803f813f1de6d221df1c6cbae0c63f4f96ff
