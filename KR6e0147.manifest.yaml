@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0147/v1
 canonical_location: https://kanripo.org/bkk/KR6e0147/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 一乘決疑論
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0147_000.yaml, hash: 'sha256:684d34f9b20d41d54ca933149c60803f813f1de6d221df1c6cbae0c63f4f96ff'}
-  - {seq: 1, filename: KR6e0147_001.yaml, hash: 'sha256:0b959dd3d735f7d3bf9d50a29e07091cf08f65c089e540bcd04f34f2914bb1c6'}
+  - {seq: 1, filename: KR6e0147_001.yaml, hash: 'sha256:f7f9278f936138a71d4b49bd481d76a6d913c1e91f3a352f730e1f3a504142df'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0147_000.markers.yaml, hash: 'sha256:5b56bac2717f029cdc254b552c920c68050f97b1924919fce72e2799bc9c11ef'}
-  - {seq: 1, role: markers, filename: assets/KR6e0147_001.markers.yaml, hash: 'sha256:a5bcfe9d50590808ba72d90a8295bd72d8a94c2f16111932cb0fd6f565deaa53'}
+  - {seq: 1, role: markers, filename: assets/KR6e0147_001.markers.yaml, hash: 'sha256:091a487a868e50ea348ee72c466382d3fe67184b0d51afc1e32c4fe0bc5fd875'}
 table_of_contents:
 - ref:
     seq: 1
@@ -57,4 +57,7 @@ table_of_contents:
   label: No. 1029-A 題一乘決疑論後
   type: mulu
   level: 1
-hash: sha256:0e81414cbb14159f43a5f9b29930d198c635ca06ccf55bf93d4807a4c3e42e14
+hash: sha256:1f85c2d1680c302446a160d10c1b10f472986841fa76aef1ae4363ffe8638f4a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
